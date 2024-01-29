@@ -1,0 +1,30 @@
+.maincontant{
+    width: 1000px;
+    height: 800px;
+    border: 3px solid  ;
+    background-color: aquamarine;
+    display: flex;
+    text-align: center;
+    align-content: space-between;
+    flex-wrap: wrap;
+    
+    
+    
+}
+
+.left{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(22, 161, 71);
+}
+.middle{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(105, 82, 239);
+}
+.right{
+    width: 300px;
+    height: 150px;
+    background-color: rgb(234, 111, 220);
+    
+}
